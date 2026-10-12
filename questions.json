@@ -1,0 +1,978 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "type": "single",
+    "question": "Dalam sebuah tim pengembangan gim terdapat beberapa profesi dengan tugas berbeda. Tugas utama seorang Quality Assurance (QA) Tester adalah ...",
+    "options": [
+      "Merancang karakter dan aset visual gim",
+      "Menguji perangkat lunak untuk menemukan bug dan memastikan sesuai kebutuhan sebelum dirilis",
+      "Mengelola server produksi agar aplikasi tetap berjalan stabil setiap saat tanpa gangguan teknis apa pun",
+      "Menyusun strategi pemasaran produk",
+      "Mendistribusikan aplikasi ke toko aplikasi"
+    ],
+    "answer": "B",
+    "explanation": "QA Tester menguji fungsionalitas dan mutu produk, mencari bug, serta memverifikasi kesesuaian dengan kebutuhan."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "type": "single",
+    "question": "Urutan tahapan dasar manajemen proyek perangkat lunak yang benar adalah ...",
+    "options": [
+      "Penutupan → Pelaksanaan → Perencanaan → Inisiasi ulang seluruh proyek",
+      "Pelaksanaan → Inisiasi → Penutupan → Perencanaan",
+      "Inisiasi → Perencanaan → Pelaksanaan dan pemantauan → Penutupan",
+      "Perencanaan → Penutupan → Inisiasi → Pelaksanaan",
+      "Perencanaan → Inisiasi → Pelaksanaan → Penutupan"
+    ],
+    "answer": "C",
+    "explanation": "Tahapan utama: inisiasi, perencanaan, pelaksanaan dan pemantauan, lalu penutupan."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "type": "single",
+    "question": "Profesi dalam pengembangan gim yang bertugas merancang mekanik, aturan, dan alur permainan adalah ...",
+    "options": [
+      "Game designer",
+      "Network administrator",
+      "Database administrator",
+      "Penulis dokumentasi jaringan",
+      "Sound engineer"
+    ],
+    "answer": "A",
+    "explanation": "Game designer menentukan aturan, mekanik, dan pengalaman bermain."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "type": "tf",
+    "question": "Sebuah startup pengembang aplikasi menerapkan budaya mutu dan semangat technopreneurship. Tentukan Benar atau Salah pernyataan berikut.",
+    "statements": [
+      "Technopreneurship menggabungkan pemanfaatan teknologi dengan semangat kewirausahaan.",
+      "Budaya mutu hanya menjadi tanggung jawab tester, bukan seluruh anggota tim.",
+      "Code review membantu menjaga mutu kode program."
+    ],
+    "answer": [
+      true,
+      false,
+      true
+    ],
+    "explanation": "Technopreneurship memadukan teknologi dan bisnis. Mutu tanggung jawab bersama; code review membantu kualitas."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "type": "single",
+    "question": "Aturan 20-20-20 (setiap 20 menit, menatap objek berjarak 20 kaki selama 20 detik) diterapkan pekerja TI untuk ...",
+    "options": [
+      "Mempercepat proses kompilasi program secara keseluruhan",
+      "Mengurangi kelelahan mata akibat menatap layar",
+      "Meningkatkan kecepatan internet",
+      "Menghemat daya listrik",
+      "Meningkatkan resolusi layar monitor"
+    ],
+    "answer": "B",
+    "explanation": "Aturan 20-20-20 memberi kesempatan mata beristirahat dan membantu mengurangi ketegangan."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "type": "single",
+    "question": "Perangkat yang membantu tim mengelola source code beserta riwayat perubahannya, sehingga beberapa pengembang dapat bekerja bersama, adalah ...",
+    "options": [
+      "Version control system (misalnya Git)",
+      "Printer jaringan yang terhubung ke banyak komputer",
+      "Antivirus",
+      "Kabel LAN",
+      "Firewall jaringan"
+    ],
+    "answer": "A",
+    "explanation": "Git mengelola versi serta riwayat perubahan kode, dan memungkinkan kolaborasi."
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "type": "multi",
+    "question": "Dalam pengelolaan aset fisik dan digital proyek perangkat lunak, praktik yang benar adalah …",
+    "options": [
+      "Membuat cadangan (backup) database secara berkala",
+      "Menamai file dan direktori proyek secara konsisten",
+      "Mengatur hak akses file proyek sesuai peran anggota tim",
+      "Menyimpan kata sandi langsung dalam source code yang dipublikasikan",
+      "Menghapus dokumentasi proyek setelah proyek selesai"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Backup, penamaan konsisten, dan kontrol hak akses adalah praktik baik. Jangan simpan password pada kode publik."
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "type": "tf",
+    "question": "Seorang pengembang bekerja secara profesional dengan aset digital milik klien. Tentukan Benar atau Salah pernyataan berikut.",
+    "statements": [
+      "Menghormati hak cipta dan lisensi aset digital merupakan bagian dari etika kerja.",
+      "Menggunakan perangkat lunak bajakan dapat diterima jika untuk proyek kecil.",
+      "Menjaga kerahasiaan data klien merupakan bagian dari budaya kerja profesional."
+    ],
+    "answer": [
+      true,
+      false,
+      true
+    ],
+    "explanation": "Hak cipta dan kerahasiaan adalah kewajiban profesional. Perangkat lunak bajakan bukan praktik etis."
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "type": "single",
+    "question": "Perintah untuk membuat direktori baru pada sistem operasi berbasis Linux adalah ...",
+    "options": [
+      "rm",
+      "mkdir",
+      "ls untuk menampilkan daftar isi direktori",
+      "cd",
+      "pwd"
+    ],
+    "answer": "B",
+    "explanation": "mkdir berarti make directory, digunakan untuk membuat folder."
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "type": "single",
+    "question": "Perangkat jaringan yang menghubungkan dua jaringan berbeda dan meneruskan paket antar-jaringan adalah ...",
+    "options": [
+      "Hub",
+      "Kabel UTP",
+      "Router",
+      "Repeater",
+      "Access point"
+    ],
+    "answer": "C",
+    "explanation": "Router mengirimkan paket data antarjaringan berdasarkan alamat IP dan rute."
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "type": "multi",
+    "question": "Mengenai arsitektur dan mekanisme TCP/IP, pernyataan yang benar adalah …",
+    "options": [
+      "TCP menyediakan pengiriman data yang andal (berorientasi koneksi)",
+      "IP bertugas pada pengalamatan dan routing paket",
+      "DNS menerjemahkan nama domain menjadi alamat IP",
+      "UDP menjamin urutan paket seperti TCP",
+      "HTTP bekerja pada layer network"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "TCP andal, IP menangani alamat/routing, dan DNS menerjemahkan nama domain. UDP tidak menjamin urutan; HTTP pada lapisan aplikasi."
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "type": "tf",
+    "question": "Seorang pengembang mengonfigurasi jaringan lokal untuk lingkungan pengembangan. Tentukan Benar atau Salah pernyataan berikut.",
+    "statements": [
+      "Alamat IP setiap perangkat dalam satu jaringan harus unik.",
+      "Subnet mask 255.255.255.0 setara dengan prefiks /16.",
+      "Gateway diperlukan agar perangkat dapat berkomunikasi dengan jaringan lain."
+    ],
+    "answer": [
+      true,
+      false,
+      true
+    ],
+    "explanation": "IP dalam subnet harus tidak konflik; 255.255.255.0 adalah /24, dan gateway meneruskan ke jaringan lain."
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "type": "single",
+    "question": "Seorang pengembang menyiapkan aplikasi web pada server lokal. Saat mengunggah foto muncul pesan kesalahan: \"Permission denied: /var/www/html/upload/foto.jpg\". Tindakan yang paling tepat adalah ...",
+    "options": [
+      "Memasang ulang bahasa pemrograman PHP dari awal tanpa memeriksa penyebab error terlebih dahulu",
+      "Mengubah hak akses (permission) pada direktori upload agar dapat ditulis oleh web server",
+      "Mengganti port web server",
+      "Menghapus seluruh file aplikasi",
+      "Membuat ulang seluruh database aplikasi"
+    ],
+    "answer": "B",
+    "explanation": "Permission denied menunjukkan web server tidak mempunyai izin tulis yang cukup di direktori tujuan."
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "type": "single",
+    "question": "Pada jaringan 192.168.20.0/24 sudah terdapat server aplikasi 192.168.20.10/24 dan file storage 192.168.20.20/24. Agar database server dapat berkomunikasi dengan keduanya, alamat IP yang paling tepat untuk database server adalah ...",
+    "options": [
+      "192.168.20.30/24",
+      "192.168.20.10/24",
+      "192.168.30.30/24",
+      "192.168.20.300/24",
+      "192.168.20.0/24"
+    ],
+    "answer": "A",
+    "explanation": "192.168.20.30/24 berada di subnet yang sama, valid, dan tidak sama dengan alamat server yang sudah ada."
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "type": "single",
+    "question": "Tipe data yang hanya memiliki dua kemungkinan nilai, yaitu True dan False, adalah ...",
+    "options": [
+      "Integer",
+      "String",
+      "Boolean",
+      "Float",
+      "Array"
+    ],
+    "answer": "C",
+    "explanation": "Boolean memiliki dua nilai logika: True dan False."
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "type": "single",
+    "question": "Struktur data yang menyimpan banyak nilai secara berurutan dan dapat diakses melalui indeks adalah ...",
+    "options": [
+      "Variabel tunggal",
+      "Array/list",
+      "Konstanta",
+      "Komentar",
+      "Fungsi (function)"
+    ],
+    "answer": "B",
+    "explanation": "Array/list menyimpan banyak nilai berurutan yang bisa diakses dengan indeks."
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "type": "single",
+    "question": "Perhatikan program berikut:\ntotal = 0\nfor i in range(1, 5):\ntotal += i\nprint(total)\nOutput program tersebut adalah ...",
+    "options": [
+      "6",
+      "10",
+      "15 jika loop dianggap mencakup angka 5",
+      "5",
+      "20"
+    ],
+    "answer": "B",
+    "explanation": "range(1,5) menghasilkan 1,2,3,4 sehingga total 10."
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "type": "single",
+    "question": "Perhatikan program berikut:\ndef kali(a, b):\nreturn a * b\ndef tambah(x):\nreturn x + 1\nnilai = ......\nprint(nilai)\nAgar output program menghasilkan angka 13, kode yang harus dilengkapi pada bagian nilai adalah ...",
+    "options": [
+      "nilai = kali(tambah(3), 4)",
+      "nilai = tambah(kali(3, 4))",
+      "nilai = kali(3, tambah(4))",
+      "nilai = tambah(tambah(10))",
+      "nilai = kali(3, 4)"
+    ],
+    "answer": "B",
+    "explanation": "kali(3,4) menghasilkan 12, lalu tambah(12) menghasilkan 13."
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "type": "multi",
+    "question": "Mengenai struktur kontrol dan modularisasi program, pernyataan yang benar adalah …",
+    "options": [
+      "Percabangan (if-else) memilih alur program berdasarkan kondisi",
+      "Perulangan mengulang blok kode selama kondisi terpenuhi",
+      "Fungsi dapat dipanggil berulang untuk menghindari kode duplikat",
+      "Fungsi tidak boleh mengembalikan nilai",
+      "Perulangan while pasti berhenti tanpa perubahan kondisi"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "if-else memilih alur; perulangan mengulang kode; fungsi dapat digunakan kembali dan dapat return."
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "type": "tf",
+    "question": "Seorang siswa mempelajari tipe data dan modularisasi. Tentukan Benar atau Salah pernyataan berikut.",
+    "statements": [
+      "Nilai \"25\" yang ditulis dalam tanda kutip adalah tipe data string.",
+      "Nilai 3.14 termasuk tipe data integer.",
+      "Memecah program menjadi fungsi memudahkan pemeliharaan program."
+    ],
+    "answer": [
+      true,
+      false,
+      true
+    ],
+    "explanation": "\"25\" bertipe string; 3.14 bertipe float; fungsi membantu modularisasi."
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "type": "tf",
+    "question": "Perhatikan program berikut:\nnilai = [65, 80, 75, 90, 55]\nlulus = 0\nfor n in nilai:\nif n >= 70:\nlulus += 1\nprint(lulus)\nTentukan Benar atau Salah pernyataan berikut.",
+    "statements": [
+      "Perulangan digunakan untuk memeriksa setiap nilai dalam daftar.",
+      "Nilai 70 memenuhi syarat lulus karena kondisi menggunakan operator >=.",
+      "Pada akhir program, isi variabel lulus adalah 4."
+    ],
+    "answer": [
+      true,
+      true,
+      false
+    ],
+    "explanation": "Tiga angka >=70 adalah 80, 75, 90. Angka 70 sendiri memenuhi syarat >=70."
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "type": "tf",
+    "question": "Sebuah program dibagi menjadi beberapa fungsi. Tentukan Benar atau Salah pernyataan berikut.",
+    "statements": [
+      "Nama fungsi dan parameter yang jelas meningkatkan keterbacaan program.",
+      "Setiap fungsi sebaiknya melakukan banyak tugas sekaligus.",
+      "Fungsi dapat memisahkan tugas tertentu sehingga bagian program lebih mudah diuji."
+    ],
+    "answer": [
+      true,
+      false,
+      true
+    ],
+    "explanation": "Nama jelas meningkatkan pemahaman; fungsi idealnya fokus pada satu tugas dan bisa diuji terpisah."
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "type": "single",
+    "question": "Dalam OOP, object adalah ...",
+    "options": [
+      "Cetak biru atau rancangan dasar dari suatu class program",
+      "Hasil instansiasi (contoh nyata) dari sebuah class",
+      "Nama lain dari fungsi",
+      "Sebuah variabel global",
+      "Sebuah interface tanpa implementasi"
+    ],
+    "answer": "B",
+    "explanation": "Object adalah instance nyata dari suatu class."
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "type": "single",
+    "question": "Atribut yang dideklarasikan private hanya dapat diakses ...",
+    "options": [
+      "Di dalam class itu sendiri",
+      "Dari semua class tanpa batas",
+      "Hanya dari subclass di file lain",
+      "Dari luar program",
+      "Hanya dari fungsi main() global"
+    ],
+    "answer": "A",
+    "explanation": "Dalam bahasa OOP dengan access modifier private, akses langsung biasanya hanya dalam class pemilik."
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "type": "single",
+    "question": "Tujuan utama penggunaan getter dan setter pada enkapsulasi adalah ...",
+    "options": [
+      "Mempercepat kompilasi",
+      "Menambah jumlah atribut baru pada sebuah class program",
+      "Mengontrol akses dan memvalidasi data atribut",
+      "Menghapus class lain",
+      "Mengurangi jumlah baris kode secara drastis"
+    ],
+    "answer": "C",
+    "explanation": "Getter dan setter mengontrol akses atribut sekaligus bisa melakukan validasi."
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "type": "single",
+    "question": "Relasi \"Mobil adalah sebuah Kendaraan\" paling tepat dimodelkan dalam OOP menggunakan ...",
+    "options": [
+      "Enkapsulasi yang menyembunyikan detail implementasi",
+      "Pewarisan (inheritance)",
+      "Perulangan",
+      "Rekursi",
+      "Polimorfisme"
+    ],
+    "answer": "B",
+    "explanation": "Mobil adalah jenis Kendaraan (hubungan is-a), sehingga tepat menggunakan inheritance."
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "type": "single",
+    "question": "Method overriding terjadi ketika ...",
+    "options": [
+      "Subclass mendefinisikan ulang method yang sudah ada di superclass",
+      "Dua class berbeda memakai nama variabel yang sama secara kebetulan",
+      "Sebuah method dipanggil dua kali",
+      "Class dihapus dari program",
+      "Overloading pada parameter berbeda"
+    ],
+    "answer": "A",
+    "explanation": "Overriding adalah implementasi ulang method milik superclass pada subclass."
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "type": "multi",
+    "question": "Mengenai enkapsulasi, pernyataan yang benar adalah …",
+    "options": [
+      "Atribut private dapat diakses melalui getter dan setter",
+      "Setter dapat memvalidasi nilai, misalnya umur tidak boleh negatif",
+      "Enkapsulasi menyembunyikan detail implementasi dari luar class",
+      "Semua atribut harus dibuat public",
+      "Enkapsulasi meniadakan penggunaan method"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Getter/setter mendukung akses terkontrol, validasi, dan penyembunyian implementasi."
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "type": "multi",
+    "question": "Perhatikan program berikut:\nclass Kendaraan:\ndef info(self):\nreturn \"Kendaraan\"\nclass Mobil(Kendaraan):\ndef info(self):\nreturn \"Mobil\"\nclass Motor(Kendaraan):\ndef info(self):\nreturn \"Motor\"\ndef tampil(obj):\nreturn obj.info()\nfor item in [Kendaraan(), Mobil(), Motor()]:\nprint(tampil(item))\nPernyataan yang benar terkait polymorphism pada program tersebut adalah …",
+    "options": [
+      "Method info() pada Mobil dan Motor merupakan method overriding dari Kendaraan",
+      "Fungsi tampil() dapat menerima objek dari class berbeda selama memiliki method info()",
+      "Output selalu sama untuk semua objek karena menggunakan fungsi yang sama",
+      "Pemanggilan obj.info() menyesuaikan dengan class objek yang diproses",
+      "Polymorphism hanya terjadi jika semua objek memiliki nilai atribut yang sama"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Mobil dan Motor override info(); tampil() memakai duck typing; method yang dipanggil bergantung pada objek."
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "type": "tf",
+    "question": "Seorang siswa mempelajari class dan object. Tentukan Benar atau Salah pernyataan berikut.",
+    "statements": [
+      "Class merupakan cetak biru untuk membuat object.",
+      "Satu class hanya dapat menghasilkan satu object.",
+      "Atribut merepresentasikan data, sedangkan method merepresentasikan perilaku object."
+    ],
+    "answer": [
+      true,
+      false,
+      true
+    ],
+    "explanation": "Class dapat menciptakan banyak object; atribut adalah data dan method adalah perilaku."
+  },
+  {
+    "id": 31,
+    "level": 2,
+    "type": "single",
+    "question": "Sebuah studio gim membutuhkan pembuat karakter, latar, dan sprite. Profesi yang tepat adalah ...",
+    "options": [
+      "Backend Developer",
+      "Database Administrator",
+      "Game Artist",
+      "Network Engineer",
+      "QA Manager"
+    ],
+    "answer": "C",
+    "explanation": "Game Artist membuat aset visual permainan."
+  },
+  {
+    "id": 32,
+    "level": 2,
+    "type": "multi",
+    "question": "Praktik yang sesuai dengan Agile adalah ...",
+    "options": [
+      "Membagi pekerjaan ke sprint",
+      "Melakukan evaluasi berkala",
+      "Menghindari komunikasi pengguna",
+      "Menyesuaikan prioritas",
+      "Melarang semua perubahan"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Agile bersifat iteratif, kolaboratif, dan adaptif."
+  },
+  {
+    "id": 33,
+    "level": 2,
+    "type": "tf",
+    "question": "Tim pengembangan gim bekerja lintas profesi. Tentukan Benar/Salah.",
+    "statements": [
+      "Pembagian tugas jelas mencegah tumpang tindih",
+      "Dokumentasi tidak perlu jika tim berpengalaman",
+      "Evaluasi berkala membantu menemukan hambatan"
+    ],
+    "answer": [
+      true,
+      false,
+      true
+    ],
+    "explanation": "Pembagian tugas, dokumentasi, serta evaluasi rutin membantu koordinasi."
+  },
+  {
+    "id": 34,
+    "level": 2,
+    "type": "single",
+    "question": "Aturan gerakan, lompatan, skor, serta pengumpulan koin dalam gim disebut ...",
+    "options": [
+      "Database normalization",
+      "Game mechanics design",
+      "Network configuration",
+      "Server deployment",
+      "Source code encryption"
+    ],
+    "answer": "B",
+    "explanation": "Game mechanics menentukan aturan dan interaksi pemain."
+  },
+  {
+    "id": 35,
+    "level": 2,
+    "type": "single",
+    "question": "Sebelum fitur digabungkan ke cabang utama, anggota tim memeriksa kode rekan mereka. Ini disebut ...",
+    "options": [
+      "Code review",
+      "Rendering",
+      "Deployment",
+      "Data entry",
+      "Network scanning"
+    ],
+    "answer": "A",
+    "explanation": "Code review adalah peninjauan kode untuk menemukan cacat dan meningkatkan mutu."
+  },
+  {
+    "id": 36,
+    "level": 2,
+    "type": "single",
+    "question": "Perintah Linux modern untuk melihat alamat IP antarmuka adalah ...",
+    "options": [
+      "mkdir",
+      "ip addr",
+      "rm -rf",
+      "pwd",
+      "touch"
+    ],
+    "answer": "B",
+    "explanation": "ip addr menampilkan informasi alamat IP antarmuka."
+  },
+  {
+    "id": 37,
+    "level": 2,
+    "type": "multi",
+    "question": "Langkah keamanan server Linux yang tepat adalah ...",
+    "options": [
+      "Gunakan autentikasi kuat",
+      "Pasang update keamanan",
+      "Berikan permission 777 pada seluruh sistem",
+      "Batasi port terbuka",
+      "Bagikan password administrator"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Akses kuat, patch keamanan, dan batasan port melindungi server."
+  },
+  {
+    "id": 38,
+    "level": 2,
+    "type": "single",
+    "question": "Dalam subnet 192.168.10.0/24, alamat yang bukan alamat host biasa adalah ...",
+    "options": [
+      "192.168.10.25",
+      "192.168.10.100",
+      "192.168.10.254",
+      "192.168.10.255",
+      "192.168.10.200"
+    ],
+    "answer": "D",
+    "explanation": "Alamat .255 adalah broadcast pada subnet tersebut."
+  },
+  {
+    "id": 39,
+    "level": 2,
+    "type": "tf",
+    "question": "Tentukan pernyataan benar/salah mengenai protokol jaringan.",
+    "statements": [
+      "HTTPS memakai TLS untuk mengamankan komunikasi",
+      "DNS mengubah alamat IP menjadi kapasitas RAM",
+      "Router meneruskan paket antarjaringan"
+    ],
+    "answer": [
+      true,
+      false,
+      true
+    ],
+    "explanation": "TLS melindungi HTTPS, DNS menyelesaikan nama domain, router menghubungkan jaringan."
+  },
+  {
+    "id": 40,
+    "level": 2,
+    "type": "single",
+    "question": "Komputer 192.168.1.15/24 harus mengakses server 192.168.2.10/24. Solusi komunikasi antar-subnet adalah ...",
+    "options": [
+      "Ubah nama folder",
+      "Gunakan router dengan routing sesuai",
+      "Hapus kode aplikasi",
+      "Tambah penyimpanan",
+      "Ubah resolusi monitor"
+    ],
+    "answer": "B",
+    "explanation": "Perangkat berbeda subnet memerlukan perutean antarjaringan."
+  },
+  {
+    "id": 41,
+    "level": 2,
+    "type": "single",
+    "question": "Perhatikan kode:\nangka = [2, 4, 6, 8, 10]\nhasil = 0\nfor x in angka:\n    if x > 5:\n        hasil += x\nprint(hasil)\nOutputnya adalah ...",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "30",
+      "20"
+    ],
+    "answer": "C",
+    "explanation": "Nilai yang dijumlahkan 6+8+10=24."
+  },
+  {
+    "id": 42,
+    "level": 2,
+    "type": "single",
+    "question": "Perhatikan kode:\ndef hitung(a, b):\n    if a > b:\n        return a - b\n    else:\n        return a + b\nprint(hitung(8, 3))\nOutputnya adalah ...",
+    "options": [
+      "3",
+      "5",
+      "8",
+      "11",
+      "24"
+    ],
+    "answer": "B",
+    "explanation": "8 > 3, jadi fungsi mengembalikan 8-3=5."
+  },
+  {
+    "id": 43,
+    "level": 2,
+    "type": "multi",
+    "question": "Perhatikan kode:\ndata = [10, 20, 30]\ndata.append(40)\ndata[1] = 25\nprint(data)\nPernyataan yang benar adalah ...",
+    "options": [
+      "List berisi 4 elemen",
+      "Elemen indeks 1 bernilai 25",
+      "Elemen pertama bernilai 20",
+      "append menambah elemen di akhir",
+      "Output [10, 20, 30, 40]"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "List akhir ialah [10,25,30,40]."
+  },
+  {
+    "id": 44,
+    "level": 2,
+    "type": "tf",
+    "question": "Siswa menghitung rata-rata nilai. Tentukan Benar/Salah.",
+    "statements": [
+      "Rata-rata = jumlah nilai / banyak data jika data tidak kosong",
+      "Perulangan dapat menjumlahkan isi list",
+      "Jumlah seluruh nilai selalu sama dengan rata-rata"
+    ],
+    "answer": [
+      true,
+      true,
+      false
+    ],
+    "explanation": "Rata-rata berbeda dari jumlah ketika data lebih dari satu nilai pada umumnya."
+  },
+  {
+    "id": 45,
+    "level": 2,
+    "type": "single",
+    "question": "Perhatikan kode:\ndef faktorial(n):\n    if n == 1:\n        return 1\n    return n * faktorial(n - 1)\nprint(faktorial(4))\nOutput adalah ...",
+    "options": [
+      "4",
+      "10",
+      "16",
+      "24",
+      "64"
+    ],
+    "answer": "D",
+    "explanation": "4! = 4×3×2×1 = 24."
+  },
+  {
+    "id": 46,
+    "level": 2,
+    "type": "single",
+    "question": "Perhatikan kode:\ndef status(nilai):\n    if nilai >= 75:\n        return \"Lulus\"\n    return \"Remedial\"\nprint(status(74))\nOutputnya adalah ...",
+    "options": [
+      "Lulus",
+      "Remedial",
+      "True",
+      "75",
+      "Error"
+    ],
+    "answer": "B",
+    "explanation": "74 kurang dari 75, maka hasilnya Remedial."
+  },
+  {
+    "id": 47,
+    "level": 2,
+    "type": "tf",
+    "question": "Tentukan Benar/Salah mengenai fungsi.",
+    "statements": [
+      "Fungsi bisa menerima parameter",
+      "return dapat mengembalikan hasil fungsi",
+      "Setiap fungsi wajib memiliki tepat dua parameter"
+    ],
+    "answer": [
+      true,
+      true,
+      false
+    ],
+    "explanation": "Fungsi bisa memiliki nol hingga beberapa parameter."
+  },
+  {
+    "id": 48,
+    "level": 2,
+    "type": "single",
+    "question": "Perhatikan kode:\nclass Siswa:\n    def __init__(self, nama):\n        self.nama = nama\n    def tampil(self):\n        return self.nama\ns1 = Siswa(\"Budi\")\nprint(s1.tampil())\nOutputnya adalah ...",
+    "options": [
+      "Siswa",
+      "Nama",
+      "Budi",
+      "Tampil",
+      "Error"
+    ],
+    "answer": "C",
+    "explanation": "Objek s1 menyimpan nama Budi, yang dikembalikan tampil()."
+  },
+  {
+    "id": 49,
+    "level": 2,
+    "type": "multi",
+    "question": "Pernyataan benar mengenai inheritance adalah ...",
+    "options": [
+      "Subclass mewarisi atribut dan method",
+      "Mendukung reuse kode",
+      "Subclass dilarang punya method baru",
+      "Subclass dapat overriding",
+      "Semua class harus menjadi class yang sama"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Subclass mewarisi dan dapat menambahkan atau mengganti perilaku."
+  },
+  {
+    "id": 50,
+    "level": 2,
+    "type": "single",
+    "question": "Perhatikan kode:\nclass Hewan:\n    def suara(self): return \"Suara Hewan\"\nclass Kucing(Hewan):\n    def suara(self): return \"Meong\"\nclass Anjing(Hewan):\n    def suara(self): return \"Guk\"\nfor h in [Kucing(), Anjing()]: print(h.suara())\nOutputnya adalah ...",
+    "options": [
+      "Suara Hewan, Suara Hewan",
+      "Kucing, Anjing",
+      "Meong, Guk",
+      "Hewan, Hewan",
+      "Error"
+    ],
+    "answer": "C",
+    "explanation": "Polimorfisme memanggil implementasi suara sesuai jenis objek."
+  },
+  {
+    "id": 51,
+    "level": 2,
+    "type": "tf",
+    "question": "RekeningBank menyembunyikan atribut saldo. Tentukan Benar/Salah.",
+    "statements": [
+      "Menyembunyikan saldo adalah enkapsulasi",
+      "Setter dapat menolak nilai tidak valid",
+      "Private berarti bebas diubah oleh class lain"
+    ],
+    "answer": [
+      true,
+      true,
+      false
+    ],
+    "explanation": "Akses terkontrol dan validasi menjaga integritas saldo."
+  },
+  {
+    "id": 52,
+    "level": 2,
+    "type": "single",
+    "question": "Class Prajurit mewarisi Karakter lalu menambahkan method serang(). Konsep OOP-nya adalah ...",
+    "options": [
+      "Encapsulation tanpa inheritance",
+      "Inheritance",
+      "Database relation",
+      "Recursive function",
+      "Network routing"
+    ],
+    "answer": "B",
+    "explanation": "Prajurit adalah jenis Karakter, sehingga hubungan is-a cocok."
+  },
+  {
+    "id": 53,
+    "level": 2,
+    "type": "multi",
+    "question": "Perhatikan kode:\nclass Bangun:\n    def luas(self): return 0\nclass Persegi(Bangun):\n    def __init__(self, sisi): self.sisi = sisi\n    def luas(self): return self.sisi * self.sisi\nobj = Persegi(5)\nprint(obj.luas())\nPernyataan benar adalah ...",
+    "options": [
+      "Persegi subclass Bangun",
+      "Persegi override method luas",
+      "Output 25",
+      "Method luas tidak dapat di-override",
+      "Output 0"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Pewarisan dan overriding menghasilkan luas persegi 5×5=25."
+  },
+  {
+    "id": 54,
+    "level": 2,
+    "type": "single",
+    "question": "Git tidak bisa menggabungkan perubahan yang saling bertentangan secara otomatis. Kejadian ini disebut ...",
+    "options": [
+      "Syntax highlighting",
+      "Merge conflict",
+      "Auto save",
+      "Data encryption",
+      "Network timeout"
+    ],
+    "answer": "B",
+    "explanation": "Merge conflict memerlukan penyelesaian oleh pengembang."
+  },
+  {
+    "id": 55,
+    "level": 2,
+    "type": "multi",
+    "question": "Langkah yang membantu kualitas aplikasi sebelum rilis adalah ...",
+    "options": [
+      "Menguji fitur utama",
+      "Mendokumentasikan bug",
+      "Mengabaikan laporan error",
+      "Melakukan code review",
+      "Menghapus catatan pengujian"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Testing, pelacakan bug, dan review adalah praktik quality assurance."
+  },
+  {
+    "id": 56,
+    "level": 2,
+    "type": "single",
+    "question": "Nilai angka tersimpan sebagai string \"90\", tetapi perlu dihitung secara numerik. Solusi tepat adalah ...",
+    "options": [
+      "Hapus data",
+      "Konversikan ke tipe numerik",
+      "Ganti nama variabel saja",
+      "Ganti monitor",
+      "Tambahkan komentar"
+    ],
+    "answer": "B",
+    "explanation": "Contohnya int(\"90\") mengonversi string menjadi bilangan bulat."
+  },
+  {
+    "id": 57,
+    "level": 2,
+    "type": "tf",
+    "question": "Tim akan melakukan deployment aplikasi sekolah. Tentukan Benar/Salah.",
+    "statements": [
+      "Backup database sebelum perubahan besar membantu pemulihan",
+      "Semua pengguna perlu akses admin",
+      "Aplikasi sebaiknya diuji sebelum deployment"
+    ],
+    "answer": [
+      true,
+      false,
+      true
+    ],
+    "explanation": "Backup dan pengujian mengurangi risiko, sementara hak akses mengikuti prinsip least privilege."
+  },
+  {
+    "id": 58,
+    "level": 2,
+    "type": "single",
+    "question": "Collision detection pada gim berguna untuk ...",
+    "options": [
+      "Mengatur database",
+      "Mendeteksi tabrakan/perpotongan objek",
+      "Mengubah gambar ke audio",
+      "Menentukan lisensi",
+      "Menjalankan DNS"
+    ],
+    "answer": "B",
+    "explanation": "Collision detection memungkinkan reaksi ketika objek saling bersentuhan."
+  },
+  {
+    "id": 59,
+    "level": 2,
+    "type": "multi",
+    "question": "Tindakan untuk melindungi informasi pengguna adalah ...",
+    "options": [
+      "Hash kata sandi dengan algoritma aman dan salt",
+      "Simpan password dalam berkas publik",
+      "Validasi input",
+      "Batasi akses berdasarkan peran",
+      "Nonaktifkan keamanan"
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Hash aman, validasi, dan pembatasan akses mengurangi risiko penyalahgunaan."
+  },
+  {
+    "id": 60,
+    "level": 2,
+    "type": "tf",
+    "question": "Sebuah gim edukasi telah selesai dibuat. Tentukan Benar/Salah.",
+    "statements": [
+      "Uji beberapa perangkat untuk menemukan masalah kompatibilitas",
+      "Gim yang telah dirilis tidak memerlukan pemeliharaan",
+      "Masukan pemain membantu peningkatan fitur"
+    ],
+    "answer": [
+      true,
+      false,
+      true
+    ],
+    "explanation": "Rilis bukan akhir siklus; kompatibilitas, perbaikan bug, dan feedback tetap penting."
+  }
+]
